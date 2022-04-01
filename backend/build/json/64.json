@@ -1,0 +1,28 @@
+{
+  "name": "cryptoapes #64",
+  "description": "it's the best apes in the metaverse",
+  "image": "https://ipfs.io/ipfs/bafybeibitra4clc2lrw7r4cy5z6hfbfpmes4fv74ad26e5wttaa2a5pgpy",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background1"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue2"
+    },
+    {
+      "trait_type": "Glass",
+      "value": "Red1"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Mouse1"
+    }
+  ],
+  "dna": "deb9eba0d60103a8a04234f7ed5e972ed29a3a2a",
+  "edition": 64,
+  "external_url": "https://cryptoapes.xyz",
+  "date": 1648823645612,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}
